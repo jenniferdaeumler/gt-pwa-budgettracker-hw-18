@@ -3,7 +3,7 @@
 ### Overview
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
-# Node Express Handlebars Links
+# Links
 
 [Link to GitHub Repo](https://github.com/jenniferdaeumler/gt-pwa-budgettracker-hw-18)
 [Link to deployed Heroku site](https://evening-everglades-08887.herokuapp.com/)
