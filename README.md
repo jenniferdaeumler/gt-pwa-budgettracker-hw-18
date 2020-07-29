@@ -26,7 +26,7 @@ Use the Heroku link to display the app in your browser.
 Add description of expense or deposit transaction along with dollar amount.  Watch the total and chart adjust accordingly. 
 
 
-![App in Use](assets/pwaapp.png)
+![App in Use](assets/pwa3.png)
 
 Demonstrating offline capabilities. 
 ![App in Use](assets/pwaapp2.png)
